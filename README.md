@@ -1,6 +1,6 @@
 # COVID-19 Related Projects
 
-Following on from [this blog post](https://github.blog/2020-03-23-open-collaboration-on-covid-19/), creating a list to keep track of projects.
+Following on from [this blog post](https://github.blog/2020-03-23-open-collaboration-on-covid-19/), creating a list to keep track of projects.  Also check out Open Source [COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)
 
 ## Contents
  1. [Tracking the pandemic collaboratively](#tracking-the-pandemic-collaboratively)
@@ -9,6 +9,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  1. [Faster application of the scientific method](#faster-application-of-the-scientific-method)
  1. [ML Data Sets](#ml-data-sets)
  1. [Data visualization](#data-visualization)
+ 1. [Stay at Home Help](#stay-at-home-help)
  1. [Local Responses](#local-responses)
     - [Asia](#asia)
     - [Europe](#europe)
@@ -25,7 +26,8 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [Folding@home COVID-19](https://foldingathome.org/2020/03/10/covid19-update/) ([data](https://github.com/FoldingAtHome/coronavirus)) ([source](https://github.com/FoldingAtHome))
  
 ## Helping the public
- - [WHO app](https://github.com/WorldHealthOrganization/app)
+ - [WHO app](https://github.com/WorldHealthOrganization/app) - mobile app supporting WHO efforts to inform public and contain outbreak 
+ - [COVID-travel](https://github.com/peckjon/covid-travel) - List of airline, hotel, rental car COVID-19 related change/cancellation policies
  
 ## Faster application of the scientific method
  - [Nextstrain COVID-19](https://nextstrain.org/ncov) ([source](https://github.com/nextstrain))
@@ -39,12 +41,18 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [COVID-19 Dashboards](https://covid19dashboards.com/) interactive visualizations of the Johns Hopkins COVID-19 data built in Jupyter Notebooks and converted to blog posts with [fastpages](https://fastpages.fast.ai/)
  - [Predict COVID-19](https://predictcovid.com/) compare between countries ([source](https://github.com/lachlanjc/covid19))
  - [COVID-19 global data as-a-service](https://github.com/mathdroid/covid-19-api) - api serving Johns Hopkins COVID-19 data
+ - [COVID-19 spread in Kerala](https://covid19.gulan28.com/) ([source](https://github.com/gulan28/covid19-viz))
+
+## Stay at Home Help
+ - [Cooped up for Covid](https://github.com/LizzySoltis/CoopedUp4Covid19)
 
 ## Local Responses
 
 ### Asia
  - [Tokyo data](https://github.com/tokyo-metropolitan-gov/covid19)
  - [Wuhan 2020 Community Project](https://community.wuhan2020.org.cn/zh-cn/)
+ - [India COVID-19 Tracker](https://www.covid19india.org/) ([source](https://github.com/covid19india/covid19india-react))
+ - 
 
 ### Europe
  - [Italy data](https://github.com/pcm-dpc/COVID-19)
@@ -54,6 +62,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [COVID-19 Tracker](https://covidtracking.com/) ([source](https://github.com/COVID19Tracking)) 
 
 ## Hardware
+ - [1M Ventilators](https://github.com/1M-Ventilators) - group of doctors, engineers and experts working together to meet the anticipated demand for medical ventilators due to the COVID-19 pandemic
  - [Low-Cost Open-Source Ventilator project](https://github.com/jcl5m1/ventilator)
 
 
