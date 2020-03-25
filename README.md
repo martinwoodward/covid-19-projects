@@ -61,6 +61,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [Tokyo data](https://github.com/tokyo-metropolitan-gov/covid19)
  - [Wuhan 2020 Community Project](https://community.wuhan2020.org.cn/zh-cn/)
  - [India COVID-19 Tracker](https://www.covid19india.org/) ([source](https://github.com/covid19india/covid19india-react))
+ - [Corona Safe](https://coronasafe.in/) - Crowd sourced guide to staying safe in the COVID outbreak. ([source](https://github.com/coronasafe/))
  - [Sri Lanka DHIS2](https://community.dhis2.org/t/dhis2-for-covid-19-surveillance-sri-lankan-use-case/38516) - specific to Sri Lanka. The [DHIS2 organization is here](https://covid.dhis2.org/).
 
 ### Africa
