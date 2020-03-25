@@ -5,20 +5,20 @@
 Following on from [this blog post](https://github.blog/2020-03-23-open-collaboration-on-covid-19/), creating a list to keep track of projects. Tag your GitHub repo with the 'covid-19' topic to get it to show up in [the covid-19 topic on GitHub](https://github.com/topics/covid-19)  Also check out the list '[Open Source COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)'
 
 ## Contents
- 1. [Global Data](#global-data)
- 1. [Healthcare Toolkits](#healthcare-toolkits)
- 1. [Volunteer computing for large scale research](#volunteer-computing-for-large-scale-research)
- 1. [Faster application of the scientific method](#faster-application-of-the-scientific-method)
- 1. [ML Data Sets](#ml-data-sets)
- 1. [Data visualization](#data-visualization)
- 1. [Public Information](#public-information)
- 1. [Stay at Home Help](#stay-at-home-help)
- 1. [Local Responses](#local-responses)
-    - [Asia](#asia)
-    - [Africa](#africa)
-    - [Europe](#europe)
-    - [North America](#north-america)
- 1. [Hardware](#hardware)
+1. [Global Data](#global-data)
+2. [Healthcare Toolkits](#healthcare-toolkits)
+3. [Volunteer computing for large scale research](#volunteer-computing-for-large-scale-research)
+4. [Faster application of the scientific method](#faster-application-of-the-scientific-method)
+5. [ML Data Sets](#ml-data-sets)
+6. [Data visualization](#data-visualization)
+7. [Public Information](#public-information)
+8. [Stay at Home Help](#stay-at-home-help)
+9. [Local Responses](#local-responses)
+   - [Asia](#asia)
+   - [Africa](#africa)
+   - [Europe](#europe)
+   - [North America](#north-america)
+10. [Hardware](#hardware)
  
 ## Global Data
  - [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository](https://github.com/CSSEGISandData/COVID-19) by Johns Hopkins CSSE
