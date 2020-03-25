@@ -52,6 +52,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 
 ## Stay at Home Help
  - [#StayHomeHack](https://stayhomehack.com/) - ([source](https://github.com/stayhomehack/stayhomehack.com))
+ - [Awesome list of COVID19 resources](https://github.com/adamdriscoll/awesome-covid19-resources) - a good list of resources for making the response to the pandemic better for everyone
  - [Cooped up for Covid](https://github.com/LizzySoltis/CoopedUp4Covid19)
 
 ## Local Responses
