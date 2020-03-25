@@ -1,3 +1,7 @@
+<!--lint disable awesome-badge-->
+<!--lint disable awesome-git-repo-age-->
+<!--lint disable awesome-github-->
+
 # COVID-19 Related Projects
 
 Following on from [this blog post](https://github.blog/2020-03-23-open-collaboration-on-covid-19/), creating a list to keep track of projects. Tag your GitHub repo with the 'covid-19' topic to get it to show up in [the covid-19 topic on GitHub](https://github.com/topics/covid-19)  Also check out the list '[Open Source COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)'
