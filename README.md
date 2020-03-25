@@ -1,14 +1,15 @@
 # COVID-19 Related Projects
 
-Following on from [this blog post](https://github.blog/2020-03-23-open-collaboration-on-covid-19/), creating a list to keep track of projects.  Also check out Open Source [COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)
+Following on from [this blog post](https://github.blog/2020-03-23-open-collaboration-on-covid-19/), creating a list to keep track of projects. Tag your GitHub repo with the 'covid-19' topic to get it to show up in [the covid-19 topic on GitHub](https://github.com/topics/covid-19)  Also check out the list '[Open Source COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)'
 
 ## Contents
- 1. [Tracking the pandemic collaboratively](#tracking-the-pandemic-collaboratively)
+ 1. [Global Data](#global-data)
+ 1. [Healthcare Toolkits](#healthcare-toolkits)
  1. [Volunteer computing for large scale research](#volunteer-computing-for-large-scale-research)
- 1. [Helping the public](#helping-the-public)
  1. [Faster application of the scientific method](#faster-application-of-the-scientific-method)
  1. [ML Data Sets](#ml-data-sets)
  1. [Data visualization](#data-visualization)
+ 1. [Public Information](#public-info)
  1. [Stay at Home Help](#stay-at-home-help)
  1. [Local Responses](#local-responses)
     - [Asia](#asia)
@@ -16,19 +17,24 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
     - [North America](#north-america)
  1. [Hardware](#hardware)
  
-## Tracking the pandemic collaboratively
+## Global Data
  - [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository](https://github.com/CSSEGISandData/COVID-19) by Johns Hopkins CSSE
    - [Interactive dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
  - [nCoV2019 dataset](https://github.com/beoutbreakprepared/nCoV2019) by the [Institute for Health Metrics and Evaluation](http://www.healthdata.org/) at the University of Washington.
    - [Dashboard](https://healthmap.org/covid-19/)
    
+## Heathcare Toolkits
+ - [WHO app](https://github.com/WorldHealthOrganization/app) - mobile app supporting WHO efforts to inform public and contain outbreak 
+ - Dimagi's CommCare 
+[WHO FFX Protocol](https://confluence.dimagi.com/display/commcarepublic/COVID-19+Template+App%3A+WHO+FFX+Protocol) [Dimago org on GitHub](https://github.com/dimagi) - Used for contact tracing, case management and data collection
+ - mHero
+[COVID-19 uses](https://www.mhero.org/news/three-early-digital-health-covid-19-response-success-stories) [GitHub org](https://github.com/iHRIS)
+ - Medic Mobile 
+[Community Health Toolkit COVID-19 topics](https://forum.communityhealthtoolkit.org/c/covid-19/24) [Medic Mobile GitHub org](https://github.com/medic)
+
 ## Volunteer computing for large scale research
  - [Folding@home COVID-19](https://foldingathome.org/2020/03/10/covid19-update/) ([data](https://github.com/FoldingAtHome/coronavirus)) ([source](https://github.com/FoldingAtHome))
- 
-## Helping the public
- - [WHO app](https://github.com/WorldHealthOrganization/app) - mobile app supporting WHO efforts to inform public and contain outbreak 
- - [COVID-travel](https://github.com/peckjon/covid-travel) - List of airline, hotel, rental car COVID-19 related change/cancellation policies
- 
+  
 ## Faster application of the scientific method
  - [Nextstrain COVID-19](https://nextstrain.org/ncov) ([source](https://github.com/nextstrain))
 
@@ -43,6 +49,9 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [COVID-19 global data as-a-service](https://github.com/mathdroid/covid-19-api) - api serving Johns Hopkins COVID-19 data
  - [COVID-19 spread in Kerala](https://covid19.gulan28.com/) ([source](https://github.com/gulan28/covid19-viz))
 
+## Public Information
+- [COVID-travel](https://github.com/peckjon/covid-travel) - List of airline, hotel, rental car COVID-19 related change/cancellation policies
+
 ## Stay at Home Help
  - [Cooped up for Covid](https://github.com/LizzySoltis/CoopedUp4Covid19)
 
@@ -52,6 +61,10 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [Tokyo data](https://github.com/tokyo-metropolitan-gov/covid19)
  - [Wuhan 2020 Community Project](https://community.wuhan2020.org.cn/zh-cn/)
  - [India COVID-19 Tracker](https://www.covid19india.org/) ([source](https://github.com/covid19india/covid19india-react))
+ - [Sri Lanka DHIS2](https://community.dhis2.org/t/dhis2-for-covid-19-surveillance-sri-lankan-use-case/38516) - specific to Sri Lanka. The [DHIS2 organization is here](https://covid.dhis2.org/).
+
+### Africa
+ -  [Ethiopia](https://github.com/Ethiopia-COVID19/community)
 
 ### Europe
  - [Italy data](https://github.com/pcm-dpc/COVID-19)
