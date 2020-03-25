@@ -9,7 +9,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  1. [Faster application of the scientific method](#faster-application-of-the-scientific-method)
  1. [ML Data Sets](#ml-data-sets)
  1. [Data visualization](#data-visualization)
- 1. [Public Information](#public-info)
+ 1. [Public Information](#public-information)
  1. [Stay at Home Help](#stay-at-home-help)
  1. [Local Responses](#local-responses)
     - [Asia](#asia)
@@ -23,7 +23,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [nCoV2019 dataset](https://github.com/beoutbreakprepared/nCoV2019) by the [Institute for Health Metrics and Evaluation](http://www.healthdata.org/) at the University of Washington.
    - [Dashboard](https://healthmap.org/covid-19/)
    
-## Heathcare Toolkits
+## Healthcare Toolkits
  - [WHO app](https://github.com/WorldHealthOrganization/app) - mobile app supporting WHO efforts to inform public and contain outbreak 
  - Dimagi's CommCare 
 [WHO FFX Protocol](https://confluence.dimagi.com/display/commcarepublic/COVID-19+Template+App%3A+WHO+FFX+Protocol) [Dimago org on GitHub](https://github.com/dimagi) - Used for contact tracing, case management and data collection
