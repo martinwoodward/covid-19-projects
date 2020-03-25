@@ -1,6 +1,4 @@
-<!--lint disable awesome-badge-->
-<!--lint disable awesome-git-repo-age-->
-<!--lint disable awesome-github-->
+<!--lint disable awesome-badge awesome-git-repo-age awesome-github-->
 
 # COVID-19 Related Projects
 
