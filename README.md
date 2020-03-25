@@ -46,7 +46,6 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [COVID-19 Dashboards](https://covid19dashboards.com/) interactive visualizations of the Johns Hopkins COVID-19 data built in Jupyter Notebooks and converted to blog posts with [fastpages](https://fastpages.fast.ai/)
  - [Predict COVID-19](https://predictcovid.com/) compare between countries ([source](https://github.com/lachlanjc/covid19))
  - [COVID-19 global data as-a-service](https://github.com/mathdroid/covid-19-api) - api serving Johns Hopkins COVID-19 data
- - [COVID-19 spread in Kerala](https://covid19.gulan28.com/) ([source](https://github.com/gulan28/covid19-viz))
 
 ## Public Information
 - [COVID-travel](https://github.com/peckjon/covid-travel) - List of airline, hotel, rental car COVID-19 related change/cancellation policies
@@ -61,7 +60,8 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [Tokyo data](https://github.com/tokyo-metropolitan-gov/covid19)
  - [Wuhan 2020 Community Project](https://community.wuhan2020.org.cn/zh-cn/)
  - [India COVID-19 Tracker](https://www.covid19india.org/) ([source](https://github.com/covid19india/covid19india-react))
- - [Corona Safe](https://coronasafe.in/) - Crowd sourced guide to staying safe in the COVID outbreak. ([source](https://github.com/coronasafe/))
+ - [COVID-19 spread in Kerala](https://covid19.gulan28.com/) ([source](https://github.com/gulan28/covid19-viz))
+ - [Corona Safe](https://coronasafe.in/) - Indian focused crowd sourced guide to staying safe in the COVID outbreak. ([source](https://github.com/coronasafe/))
  - [Sri Lanka DHIS2](https://community.dhis2.org/t/dhis2-for-covid-19-surveillance-sri-lankan-use-case/38516) - specific to Sri Lanka. The [DHIS2 organization is here](https://covid.dhis2.org/).
 
 ### Africa
@@ -70,6 +70,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 ### Europe
  - [Italy data](https://github.com/pcm-dpc/COVID-19)
  - [Zurich data](https://github.com/openZH/covid_19)
+ - [CasCoronaVirus.fr](https://www.cascoronavirus.fr/) - French virus visulization ([source](https://github.com/souryvath/ng-covid-19))
 
 ### North America
  - [COVID-19 Tracker](https://covidtracking.com/) ([source](https://github.com/COVID19Tracking)) - US COVID tracking
