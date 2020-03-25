@@ -13,6 +13,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  1. [Stay at Home Help](#stay-at-home-help)
  1. [Local Responses](#local-responses)
     - [Asia](#asia)
+    - [Africa](#africa)
     - [Europe](#europe)
     - [North America](#north-america)
  1. [Hardware](#hardware)
