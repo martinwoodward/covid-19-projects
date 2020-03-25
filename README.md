@@ -58,7 +58,8 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [Zurich data](https://github.com/openZH/covid_19)
 
 ### North America
- - [COVID-19 Tracker](https://covidtracking.com/) ([source](https://github.com/COVID19Tracking)) 
+ - [COVID-19 Tracker](https://covidtracking.com/) ([source](https://github.com/COVID19Tracking)) - US COVID tracking
+ - [Province of Ontario Self-Assessment Tool](https://covid-19.ontario.ca/self-assessment/index.html#q0) ([source](https://github.com/ongov/covid-19-self-assessment))
 
 ## Hardware
  - [1M Ventilators](https://github.com/1M-Ventilators) - group of doctors, engineers and experts working together to meet the anticipated demand for medical ventilators due to the COVID-19 pandemic
