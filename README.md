@@ -8,17 +8,16 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 1. [Global Data](#global-data)
 2. [Healthcare Toolkits](#healthcare-toolkits)
 3. [Volunteer computing for large scale research](#volunteer-computing-for-large-scale-research)
-4. [Faster application of the scientific method](#faster-application-of-the-scientific-method)
-5. [ML Data Sets](#ml-data-sets)
-6. [Data visualization](#data-visualization)
-7. [Public Information](#public-information)
-8. [Stay at Home Help](#stay-at-home-help)
-9. [Local Responses](#local-responses)
+4. [ML Data Sets](#ml-data-sets)
+5. [Data visualization](#data-visualization)
+6. [Public Information](#public-information)
+7. [Stay at Home Help](#stay-at-home-help)
+8. [Local Responses](#local-responses)
    - [Asia](#asia)
    - [Africa](#africa)
    - [Europe](#europe)
    - [North America](#north-america)
-10. [Hardware](#hardware)
+9. [Hardware](#hardware)
  
 ## Global Data
  - [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository](https://github.com/CSSEGISandData/COVID-19) by Johns Hopkins CSSE
