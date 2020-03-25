@@ -35,14 +35,12 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 ## Volunteer computing for large scale research
  - [Folding@home COVID-19](https://foldingathome.org/2020/03/10/covid19-update/) ([data](https://github.com/FoldingAtHome/coronavirus)) ([source](https://github.com/FoldingAtHome))
   
-## Faster application of the scientific method
- - [Nextstrain COVID-19](https://nextstrain.org/ncov) ([source](https://github.com/nextstrain))
-
 ## ML Data Sets
  - [COVID-19 chest X-ray or CT images](https://github.com/ieee8023/covid-chestxray-dataset)
 
 ## Data visualization
  - [Novel Coronavirus Infection Map](https://github.com/jakobzhao/virus) from [Humanistic GIS Lab](https://hgis.uw.edu/) at the University of Washington
+ - [Nextstrain COVID-19](https://nextstrain.org/ncov) ([source](https://github.com/nextstrain))
  - [COVID-19 Scenarios](https://neherlab.org/covid19/) - COVID-19 outbreak simulator
  - [COVID-19 Dashboards](https://covid19dashboards.com/) interactive visualizations of the Johns Hopkins COVID-19 data built in Jupyter Notebooks and converted to blog posts with [fastpages](https://fastpages.fast.ai/)
  - [Predict COVID-19](https://predictcovid.com/) compare between countries ([source](https://github.com/lachlanjc/covid19))
@@ -53,6 +51,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 - [COVID-travel](https://github.com/peckjon/covid-travel) - List of airline, hotel, rental car COVID-19 related change/cancellation policies
 
 ## Stay at Home Help
+ - [#StayHomeHack](https://stayhomehack.com/) - ([source](https://github.com/stayhomehack/stayhomehack.com))
  - [Cooped up for Covid](https://github.com/LizzySoltis/CoopedUp4Covid19)
 
 ## Local Responses
