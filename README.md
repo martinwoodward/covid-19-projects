@@ -52,7 +52,6 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
  - [Tokyo data](https://github.com/tokyo-metropolitan-gov/covid19)
  - [Wuhan 2020 Community Project](https://community.wuhan2020.org.cn/zh-cn/)
  - [India COVID-19 Tracker](https://www.covid19india.org/) ([source](https://github.com/covid19india/covid19india-react))
- - 
 
 ### Europe
  - [Italy data](https://github.com/pcm-dpc/COVID-19)
