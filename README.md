@@ -42,6 +42,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 
 ## Data visualization
  - [Novel Coronavirus Infection Map](https://github.com/jakobzhao/virus) from [Humanistic GIS Lab](https://hgis.uw.edu/) at the University of Washington
+ - [data visualizations based on JHU CSSE using kepler.gl](https://github.com/ManuelB/covid-19-vis) 
  - [Nextstrain COVID-19](https://nextstrain.org/ncov) ([source](https://github.com/nextstrain))
  - [COVID-19 Scenarios](https://neherlab.org/covid19/) - COVID-19 outbreak simulator
  - [COVID-19 Dashboards](https://covid19dashboards.com/) interactive visualizations of the Johns Hopkins COVID-19 data built in Jupyter Notebooks and converted to blog posts with [fastpages](https://fastpages.fast.ai/)
