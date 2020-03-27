@@ -75,6 +75,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 - [CasCoronaVirus.fr](https://www.cascoronavirus.fr/) - French virus visulization ([source](https://github.com/souryvath/ng-covid-19)).
 
 ### North America
+- [US COVID-19 Data](https://github.com/nytimes/covid-19-data) -  New York Times compiled dataset from state and country level
 - [COVID-19 Tracker](https://covidtracking.com/) ([source](https://github.com/COVID19Tracking)) - US COVID tracking.
 - [Province of Ontario Self-Assessment Tool](https://covid-19.ontario.ca/self-assessment/index.html#q0) - ([Source](https://github.com/ongov/covid-19-self-assessment)).
 
