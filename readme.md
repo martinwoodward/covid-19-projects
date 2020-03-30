@@ -26,7 +26,6 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
   - [Interactive dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - [nCoV2019 dataset](https://github.com/beoutbreakprepared/nCoV2019) - By the [Institute for Health Metrics and Evaluation](http://www.healthdata.org/) at the University of Washington.
   - [Dashboard](https://healthmap.org/covid-19/)
-- [corona-cli](https://github.com/AhmadAwais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States.
 
 ## Healthcare Toolkits
 
@@ -45,7 +44,7 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 
 - [COVID-19 chest X-ray or CT images](https://github.com/ieee8023/covid-chestxray-dataset)
 
-## Data visualization
+## Data visualization and tools
 
 - [Novel Coronavirus Infection Map](https://github.com/jakobzhao/virus) - From [Humanistic GIS Lab](https://hgis.uw.edu/) at the University of Washington.
 - [data visualizations based on JHU CSSE using kepler.gl](https://github.com/ManuelB/covid-19-vis)
@@ -54,6 +53,8 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
 - [COVID-19 Dashboards](https://covid19dashboards.com/) - Interactive visualizations of the Johns Hopkins COVID-19 data built in Jupyter Notebooks and converted to blog posts with [fastpages](https://fastpages.fast.ai/).
 - [Predict COVID-19](https://predictcovid.com/) - Compare between countries ([source](https://github.com/lachlanjc/covid19)).
 - [COVID-19 global data as-a-service](https://github.com/mathdroid/covid-19-api) - API serving Johns Hopkins COVID-19 data.
+- [corona-cli](https://github.com/AhmadAwais/corona-cli) - Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States.
+
 
 ## Public Information
 
