@@ -28,6 +28,10 @@ Following on from [this blog post](https://github.blog/2020-03-23-open-collabora
   - [Interactive dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - [nCoV2019 dataset](https://github.com/beoutbreakprepared/nCoV2019) - By the [Institute for Health Metrics and Evaluation](http://www.healthdata.org/) at the University of Washington.
   - [Dashboard](https://healthmap.org/covid-19/)
+  
+## Cross project collaboration
+
+- [Open Tech Response](http://opentechresponse.slack.com/) - By OpenUK, the goal is to pull practioners together who are working on covid-19 related open technologies
 
 ## Healthcare Toolkits
 
